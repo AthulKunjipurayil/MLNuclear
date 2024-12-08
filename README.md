@@ -15,5 +15,5 @@ Regression techniques for nuclear physics data shows hope in enhancing both
 theoretical and experimental understanding. These developments can help address 
 key questions from new perspectives, paving the way for improved modeling and analysis.
 
-Aknowledgement
+Acknowledgement
 https://github.com/hbprosper/MLinPhysics.git
