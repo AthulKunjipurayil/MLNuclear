@@ -14,3 +14,6 @@ models, such as the Liquid Drop Model of nuclei. Recent advancements in Symbolic
 Regression techniques for nuclear physics data shows hope in enhancing both 
 theoretical and experimental understanding. These developments can help address 
 key questions from new perspectives, paving the way for improved modeling and analysis.
+
+Aknowledgement
+https://github.com/hbprosper/MLinPhysics.git
