@@ -1,5 +1,6 @@
 # MLNuclear
-Discovering Nuclear Models from Machine Learning
+Discovering Nuclear Models from Machine Learning.
+
 In this work, we present how Machine Learning models, such as Fully Connected Neural 
 Networks (FC Nets) and Symbolic Regressions, can aid in deriving insights from nuclear 
 data. We have demonstrated that FC Nets are effective in predicting nuclear data trends across the 
